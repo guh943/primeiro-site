@@ -1,0 +1,15 @@
+@charset "UTF-8";
+body{
+    font: normal;
+}
+a{
+    font-weight: bold;
+    text-decoration: none;
+    color: rgb(239, 33, 218);
+}
+a:visited{
+    color: rgb(178, 240, 125);
+}
+a :hover{
+    text-decoration: underline;
+}
